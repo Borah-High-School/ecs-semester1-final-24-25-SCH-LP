@@ -37,4 +37,10 @@ p{
     border-radius: 250px;
     color: darkgreen;
 } 
- 
+ img{
+    height: 200;
+    width: auto;
+    border-style: groove;
+    border-width: 5px;
+    border-color:cornsilk;
+ }

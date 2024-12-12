@@ -1,0 +1,40 @@
+p{
+    font-size: 15px;
+    color: green;
+}
+
+.page1{
+    background-color: darkseagreen;
+    border-style: groove;
+    border-color: forestgreen;
+    font-size: 17px;
+    border-radius: 250px;
+    color: darkgreen;
+  }
+
+.page2{
+    background-color: darkseagreen;
+    border-style: groove;
+    border-color: forestgreen;
+    font-size: 17px;
+    border-radius: 250px;
+    color: darkgreen;
+}
+.page3{
+    background-color: rgb(182, 119, 119);
+    border-style: groove;
+    border-color: rgb(150, 38, 38);
+    font-size: 17px;
+    border-radius: 250px;
+    color: rgb(100, 0, 0);
+  }
+
+.page4{
+    background-color: rgb(147, 188, 143);
+    border-style: groove;
+    border-color: forestgreen;
+    font-size: 17px;
+    border-radius: 250px;
+    color: darkgreen;
+} 
+ 

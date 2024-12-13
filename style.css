@@ -1,17 +1,16 @@
 body{
   color:gray;
   font-family:'Times New Roman', Times, serif;
-  background-color: #ffb1d3;
 }
 
 p{
-    font-size: 25px;
-    color: green;
+    font-size: 22px;
+    color: gray;
     font-weight: bold;
 }
 
 h1, h2, h3, h4{
-  color: gray;
+  color: black;
   font-weight: bold;
 }
 
@@ -50,9 +49,17 @@ h1, h2, h3, h4{
     color: darkgreen;
 } 
  img{
-    height: 10;
+    height: 250px;
     width: auto;
     border-style: groove;
     border-width: 10px;
     border-color:cornsilk;
+ }
+
+ .center{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin: 20px;
  }

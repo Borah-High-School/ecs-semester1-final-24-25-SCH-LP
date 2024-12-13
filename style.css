@@ -1,24 +1,29 @@
+body{
+  color:#ffb1d3;
+  font-family:'Times New Roman', Times, serif;
+}
+
 p{
     font-size: 15px;
     color: green;
 }
 
 .page1{
-    background-color: darkseagreen;
-    border-style: groove;
-    border-color: forestgreen;
-    font-size: 17px;
-    border-radius: 250px;
-    color: darkgreen;
-  }
+  background-color: #ffb1d3;
+  border-style: groove;
+  border-color: deeppink;
+  font-size: 17px;
+  border-radius: 250px;
+  color: #910049;
+}
 
 .page2{
-    background-color: darkseagreen;
-    border-style: groove;
-    border-color: forestgreen;
-    font-size: 17px;
-    border-radius: 250px;
-    color: darkgreen;
+  background-color: #ffeaab; 
+  border-style: groove;
+  border-color: #c2c200;
+  font-size: 17px;
+  border-radius: 250px;
+  color: #5f5f00;
 }
 .page3{
     background-color: rgb(182, 119, 119);

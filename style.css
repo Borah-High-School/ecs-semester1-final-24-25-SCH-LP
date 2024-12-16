@@ -63,3 +63,12 @@ h1, h2, h3, h4{
   align-items: center;
   margin: 20px;
  }
+ 
+ footer {
+  text-align: center;
+  padding: 20px;
+  background-color: #000000;
+  color: rgb(163, 0, 0);
+  border-top: 2px solid #000000;
+}
+
